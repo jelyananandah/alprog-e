@@ -1,0 +1,27 @@
+NOTASI KALIMAT DESKRIPTIF 
+PADA ALGORITMA
+
+
+Notasi deskriptif pada algoritma adalah cara untuk menjelaskan langkah-langkah dalam algoritma menggunakan bahasa natural atau pseudo-code yang mudah dimengerti, tanpa terikat pada sintaks pemrograman tertentu. 
+
+CONTOH : 
+Berikut adalah contoh notasi kalimat deskriptif dalam algoritma, yang menggambarkan logika secara jelas dalam bentuk narasi (deskriptif), tanpa sintaksis formal dari bahasa pemrograman:
+
+Contoh Algoritma Menghitung Nilai Rata-Rata dari 5 Angka:
+
+1.	Mulai.
+2.	Inisialisasi sebuah variabel jumlah dengan nilai 0.
+3.	Tentukan 5 angka yang akan dijumlahkan.
+4.	Untuk setiap angka:
+• Tambahkan angka tersebut ke dalam variabel jumlah.
+5.	Setelah semua angka dijumlahkan, bagi nilai jumlah dengan 5 untuk mendapatkan rata-rata.
+6.	Cetak hasil rata-rata tersebut.
+7.	Selesai.
+
+Deskripsi Kalimat dalam Algoritma:
+a.	"Mulai": Menunjukkan permulaan algoritma.
+b.	"Inisialisasi sebuah variabel": Artinya menetapkan nilai awal ke variabel yang akan digunakan.
+c.	"Tentukan 5 angka": Menentukan data input yang akan diproses.
+d.	"Untuk setiap angka": Melakukan iterasi atau pengulangan untuk setiap elemen angka.
+e.	"Cetak hasil rata-rata tersebut": Menampilkan hasil yang diperoleh dari perhitungan.
+f.	Contoh ini menunjukkan bagaimana langkah-langkah algoritma dituliskan secara naratif dan bisa diterjemahkan menjadi kode pemrograman apa pun sesuai logika yang diuraikan.
